@@ -1,7 +1,7 @@
 body {
     background: url(https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg?auto=compress&cs=tinysrgb&h=350)center center/cover no-repeat;
     margin: 0 auto 20px auto;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .navbar {
@@ -107,5 +107,4 @@ footer {
     position: fixed;
     bottom:0;
     width: 100%;
-
 }
